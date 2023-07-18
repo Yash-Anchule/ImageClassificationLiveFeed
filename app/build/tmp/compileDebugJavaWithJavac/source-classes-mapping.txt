@@ -1,0 +1,2 @@
+com/example/imageclassificationlivefeed/BuildConfig.java
+ com.example.imageclassificationlivefeed.BuildConfig
